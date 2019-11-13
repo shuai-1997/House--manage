@@ -160,7 +160,6 @@
 		overflow: scroll;
 	}
 	.details .img{
-		
 		height:80px;
 		margin:  0 auto;
 		
